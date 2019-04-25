@@ -339,7 +339,7 @@
                 <div class="row">
                     <div class="col-12">
                         <p class="m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright tuli sir&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </p>
+Copyright &copy; Rahul Rajanbir Naman Priyanshu .<script>document.write(new Date().getFullYear());</script> All rights reserved </p>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div><!-- .col-12 -->
                 </div><!-- .row -->
